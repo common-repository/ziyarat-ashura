@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-12-05 13:19+0330\n"
+"PO-Revision-Date: 2015-12-05 13:19+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__;gettext\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: zashura.php:21
+msgid "Ziarat Ashura"
+msgstr "زیارت عاشورا"
+
+#: zashura.php:22
+msgid "Ziarat ashura for English & Arbic & Persian languages."
+msgstr "زیارت عاشورا برای زبان های انگلیسی و عربی و ترجمه ی فارسی"
+
+#: zashura.php:43
+msgid "Ziarat ashura"
+msgstr "زیارت عاشورا"
+
+#: zashura.php:129
+msgid "Div width(px)"
+msgstr "طول div بر حسب px"
+
+#: zashura.php:130
+msgid "Div height(px)"
+msgstr "عرض div بر حسب px"
+
+#: zashura.php:131
+msgid "Reading speed - Example : 10000"
+msgstr "سرعت خواندن - مثال : 10000 "
+
+#: zashura.php:132
+msgid "select languages"
+msgstr "انتخاب زبان"
+
+#: zashura.php:133
+msgid "Show player(arabic)"
+msgstr "پخش صوتی ( عربی )"
+
+#: zashura.php:134
+msgid "Font size(px)"
+msgstr "اندازه ی فونت برحسب px"
+
+#: zashura.php:135
+msgid "Auto play( player )"
+msgstr "پخش خودکار ( پخش کننده )"
+
+#: zashura.php:136
+msgid "Ashura logo"
+msgstr "لوگوی عاشورا"
+
+#: zashura.php:150
+msgid "Save changes"
+msgstr "ذخیره تنظیمات"
+
+#: zashura.php:151
+msgid "Reset"
+msgstr "بازیابی"
+
+#~ msgid "Show player"
+#~ msgstr "نمایش پخش صوتی"
+
+#~ msgid "Div width"
+#~ msgstr "طول div - برحسب px"
+
+#~ msgid "Div height"
+#~ msgstr "عرض div - برحسب px"
+
+#~ msgid "select language"
+#~ msgstr "انتخاب زبان"

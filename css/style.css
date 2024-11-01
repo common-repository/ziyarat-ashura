@@ -1,0 +1,60 @@
+/**
+ * Ziarat ashura plugin style
+ */
+@font-face {
+  font-family: 'droid';
+  font-style: normal;
+  font-weight: 700;
+  src: url(dkr.eot);
+  src: url(dkr.eot?#iefix) format('embedded-opentype'),
+       url(dkr.woff) format('woff'),
+       url(dkr.ttf) format('truetype');
+}
+.za-wrap{
+	overflow:hidden;
+	margin: 10px auto;
+	}
+.za-wrap .za-title{	
+	width:180px;
+	height:210px;
+	margin: 0 auto;
+	background:url('../img/zaeh-logo.png');
+	background-repeat:no-repeat;
+}
+.za-wrap .za-text{
+	width: 96%;
+	height: 400px;
+    text-align: justify;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 3px;
+    margin: 0 auto;
+    padding: 10px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 16px;
+    font-family: droid,tahoma;
+    line-height: 35px;
+    box-shadow: rgba(0, 0, 0, 0.0980392) 0px 5px 10px;
+    overflow: hidden;
+	direction:rtl;
+    background: rgb(255, 255, 255);
+}
+.za-wrap  .za-span{
+	color:#3E7F1F;
+	clear:both;
+	display:block;
+}
+.za-wrap .za-span-red{
+	color:#C40000;
+	clear:both;
+	display:block;
+}
+.za-wrap .za-player{
+	width:90%;
+	margin:10px auto;
+}
+.za-wrap .za-player audio{
+	width:100%
+}
